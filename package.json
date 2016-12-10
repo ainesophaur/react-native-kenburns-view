@@ -21,9 +21,15 @@
   },
   "homepage": "https://github.com/nHiRanZ/react-native-kenburns-view#readme",
   "peerDependencies": {
-    "react-native": "*"
+    "react-native": "^0.40.0-rc.0",
+    "react": "^15.4.1"
   },
   "directories": {
     "example": "example"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-timer-mixin": "^0.13.3",
+    "rebound": "0.0.13"
   }
 }
